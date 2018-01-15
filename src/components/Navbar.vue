@@ -7,3 +7,10 @@
     </div>
   </nav>
 </template>
+<style scoped>
+
+.brand-logo {
+  margin-left: 10px;
+}
+
+</style>
