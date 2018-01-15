@@ -1,6 +1,6 @@
 <template>
   <div id="new-employee">
-    <h3>New Employee</h3>
+    <h4>New Employee</h4>
     <div class="row">
       <form @submit.prevent="saveEmployee" class="col s12">
         <div class="row">
